@@ -17,3 +17,4 @@ If I had more time, I would have fully implemented the swipe functionality, allo
 The next step would also be to connect the website to a real API with news and organizations, so the content could update automatically instead of being static.
 
 \*\* View it live \*\*
+https://furpulse.netlify.app/
